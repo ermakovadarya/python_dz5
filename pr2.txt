@@ -1,0 +1,11 @@
+aaaaabbaabbbababbbbc
+a5 
+b2 
+a2 
+b3 
+a1 
+b1 
+a1 
+b4 
+c1 
+Итоговая строка = aaaaabbaabbbababbbbc 
